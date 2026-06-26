@@ -1,8 +1,8 @@
-# Books I Have Read or I'm Reading Right Now
+# Books
 
-This repository is a history to tell what kind of topics I follow or I read
+A personal reading log documenting the books I've read and the ones I'm currently reading.
 
-I start reading books from 2024 but now I want to save it somewhere and where better than Github?
+I started reading regularly in 2024. This repository serves as a permanent archive of my reading journey and reflects the subjects I'm interested in over time.
 
 
 ## Topics I follow
@@ -16,7 +16,7 @@ I start reading books from 2024 but now I want to save it somewhere and where be
 
 ## Goals
 
- - [ ] Read 10 English Book in 2026 - Summer
+ - [ ] Read 10 books in English during summer 2026
  - [ ] Add rating for each book
  - [ ] Read 2 technical book (Computer Engineering)
  
