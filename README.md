@@ -12,3 +12,11 @@ I start reading books from 2024 but now I want to save it somewhere and where be
  - History
  - Non-Fiction
  - Novels
+
+
+## Goals
+
+ - [ ] Read 10 English Book in 2026 - Summer
+ - [ ] Add rating for each book
+ - [ ] Read 2 technical book (Computer Engineering)
+ 
