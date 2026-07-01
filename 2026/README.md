@@ -5,4 +5,4 @@
     - Two Scopes of Django 3.x.x
 
 - ## Summer
-    - THE RAILWAY CHILDREN
+    - THE RAILWAY CHILDREN, rating: ⭐⭐⭐
