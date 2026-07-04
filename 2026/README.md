@@ -1,8 +1,8 @@
-# 2026 - Books I have read
+# Books I have read **2026**
 
 - ## Spring
-    - Clean Code
-    - Two Scopes of Django 3.x.x
+    - Clean Code ⭐⭐
+    - Two Scopes of Django 3.x.x ⭐⭐⭐⭐
 
 - ## Summer
     - THE RAILWAY CHILDREN, rating: ⭐⭐⭐
