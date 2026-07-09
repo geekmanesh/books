@@ -36,7 +36,8 @@ I rate books using this scale:
 
 ## Goals
 
- - [ ] Read 10 books in English during summer 2026 [1/10]
+ - [ ] Read 10 books in English during summer 2026 [2/10]
  - [x] Add rating for each book
  - [ ] Read 2 technical book (Computer Engineering) [0/2]
+ - [ ] Add books author
  
