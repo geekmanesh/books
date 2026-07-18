@@ -8,4 +8,5 @@
     - **THE RAILWAY CHILDREN** ⭐⭐⭐
     - **The Secret Garden** ⭐⭐⭐
     - **Python Object-Oriented Programming - Fifth Edition** by Steven F. Lott, Dusty Phillips **Currently**
+    - **The Canterville Ghost** by Oscar Wilde ⭐⭐⭐
 
