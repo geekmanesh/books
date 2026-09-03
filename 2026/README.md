@@ -2,11 +2,11 @@
 
 - ## Spring
     - **Clean Code** ⭐⭐
-    - **Two Scopes of Django 3.x.x** **Currently**
+    - **Two Scopes of Django 3.x.x** **UNFINISHED**
 
 - ## Summer
     - **THE RAILWAY CHILDREN** ⭐⭐⭐
     - **The Secret Garden** ⭐⭐⭐
-    - **Python Object-Oriented Programming - Fifth Edition** by Steven F. Lott, Dusty Phillips **Currently**
+    - **Python Object-Oriented Programming - Fifth Edition** by Steven F. Lott, Dusty Phillips **UNFINISHED**
     - **The Canterville Ghost** by Oscar Wilde ⭐⭐⭐
 
